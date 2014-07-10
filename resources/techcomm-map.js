@@ -1,4 +1,4 @@
-var DATA_SERVICE_URL = "https://script.google.com/macros/s/AKfycbx75GBiRRl9qUyNMCH-BtDbOc4-g0WZSgCnqhvi6YvhCxYpJ1kJ/exec?jsonp=?";
+var DATA_SERVICE_URL = "https://script.google.com/macros/s/AKfycbwZA8nqKC6_v_xiEAabvjGubFUiPLAUFVT7rC9j9pLHl6H02II/exec";
 // DEFAULT_ZOOM is the default zoom level for the map.
 // AUTO_ZOOM is the level used when we automatically zoom into a place when
 // the user selects a marker or searches for a place.
